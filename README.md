@@ -16,7 +16,11 @@
     education: '3rd year CSE undergrad at IIIT Bhubaneswar, India',
     currentlyWorkingOn: 'Full stack Web and Blockchain development',
 }
+```
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman1337g&row=1" alt="Aman1337g" /></a> </p>
+
+
 <!-- GitHub Readme Streak Stats-->
 <!-- ## 🔥 Streak stats -->
 <table align="center">
@@ -35,11 +39,14 @@
   </tr>
   <tr>
     <td colspan="2" align="center"/>
-Language and Suite	Product and Framework
-<img src = "https://img.shields.io/badge/Language-Page?style=flat&color=008bb9" height = 30px>	<img src = "https://img.icons8.com/color/60/000000/python--v1.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/javascript--v1.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/c-programming.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/c-plus-plus-logo.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/solidity.png" height = 60px>
-<img src = "https://img.shields.io/badge/Web-Page?style=flat&color=008bb9" height = 30px>	<img src = "https://img.shields.io/badge/HTML-Page?style=flat&logo=html5&logoColor=white&color=e44d26" height = 30px> <img src = "https://img.shields.io/badge/CSS-Page?style=flat&logo=css3&logoColor=white&color=264de4" height = 30px> <img src = "https://img.shields.io/badge/JavaScript-Page?style=flat&logo=javascript&logoColor=white&color=d19b07" height = 30px> <img src = "https://img.shields.io/badge/HUGO-Page?style=flat&logo=hugo&logoColor=white&color=e53a40" height = 30px >
-<img src = "https://img.shields.io/badge/Cloud-Page?style=flat&color=008bb9" height = 30px>	<img src = "https://img.shields.io/badge/Heroku-Page?style=flat&logo=heroku&logoColor=white&color=6762a6" height = 30px> <img src="https://img.shields.io/badge/Vercel-Page?style=flat&logo=vercel&logoColor=white&color=56676e" height=30px>
-<img src = "https://img.shields.io/badge/Utility-Page?style=flat&color=008bb9" height = 30px>	<img src = "https://img.shields.io/badge/Git-Page?style=flat&logo=git&logoColor=white&color=F1502F" height = 30px> <img src = "https://img.shields.io/badge/Github-Page?style=flat&logo=github&logoColor=white&color=8d028d" height = 30px> <img src = "https://img.shields.io/badge/VSCode-Page?style=flat&logo=visualstudiocode&logoColor=white&color=008bb9" height = 30px> <img src = "https://img.shields.io/badge/Replit-Page?style=flat&logo=replit&logoColor=white&color=56676e" height = 30px>
+    
+| Language and Suite | Product and Framework |
+| :---: | :---: |
+| <img src = "https://img.shields.io/badge/Language-Page?style=flat&color=008bb9" height = 30px> | <img src = "https://img.icons8.com/color/60/000000/python--v1.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/javascript--v1.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/c-programming.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/c-plus-plus-logo.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/solidity.png" height = 60px> |
+| <img src = "https://img.shields.io/badge/Web-Page?style=flat&color=008bb9" height = 30px> | <img src = "https://img.shields.io/badge/HTML-Page?style=flat&logo=html5&logoColor=white&color=e44d26" height = 30px> <img src = "https://img.shields.io/badge/CSS-Page?style=flat&logo=css3&logoColor=white&color=264de4" height = 30px>  <img src = "https://img.shields.io/badge/JavaScript-Page?style=flat&logo=javascript&logoColor=white&color=d19b07" height = 30px> <img src = "https://img.shields.io/badge/HUGO-Page?style=flat&logo=hugo&logoColor=white&color=e53a40" height = 30px >|
+| <img src = "https://img.shields.io/badge/Cloud-Page?style=flat&color=008bb9" height = 30px> | <img src = "https://img.shields.io/badge/Heroku-Page?style=flat&logo=heroku&logoColor=white&color=6762a6" height = 30px> <img src="https://img.shields.io/badge/Vercel-Page?style=flat&logo=vercel&logoColor=white&color=56676e" height=30px> |
+| <img src = "https://img.shields.io/badge/Utility-Page?style=flat&color=008bb9" height = 30px> |<img src = "https://img.shields.io/badge/Git-Page?style=flat&logo=git&logoColor=white&color=F1502F" height = 30px> <img src = "https://img.shields.io/badge/Github-Page?style=flat&logo=github&logoColor=white&color=8d028d" height = 30px> <img src = "https://img.shields.io/badge/VSCode-Page?style=flat&logo=visualstudiocode&logoColor=white&color=008bb9" height = 30px> <img src = "https://img.shields.io/badge/Replit-Page?style=flat&logo=replit&logoColor=white&color=56676e" height = 30px> |
+
 </td>
 </tr>
 </table>
